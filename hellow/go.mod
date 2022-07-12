@@ -1,4 +1,4 @@
-module github.com/nguyentranbao-ct/go/hellow/v1
+module github.com/nguyentranbao-ct/go/hellow
 
 go 1.18
 
