@@ -1,4 +1,4 @@
-package v2
+package hellow
 
 import (
 	"github.com/carousell/ct-go/pkg/logger/log"
